@@ -1,0 +1,11 @@
+Player_ID,Age,Height_cm,Weight_kg,Previous_Injuries,Matches_Played,Training_Hours_Per_Week,Training_Intensity,Injury_Type,Recovery_Days,Physical_Condition_Score,Singles_Doubles,Injury_Risk
+1,25,180,75,1,100,10,High,None,0,9,Singles,0
+2,22,175,70,0,120,12,Medium,Ankle,14,8,Doubles,1
+3,30,185,85,2,150,8,Low,Knee,21,7,Singles,1
+4,28,178,80,0,90,15,High,Shoulder,10,10,Doubles,0
+5,24,172,68,1,130,10,Medium,None,0,9,Singles,0
+6,27,180,78,3,140,9,Low,Ankle,30,6,Doubles,1
+7,26,170,65,0,110,11,High,None,0,8,Singles,0
+8,29,182,82,2,160,7,Medium,Knee,20,7,Doubles,1
+9,23,177,73,0,125,10,Low,Shoulder,15,8,Singles,0
+10,31,185,88,3,170,6,High,None,0,7,Doubles,0
